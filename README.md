@@ -9,11 +9,9 @@ Welcome to CyberFiction.AI Clone, a dynamic website that replicates the features
 
 2. **Smooth Scrolling**: Locomotive Scroll is used to create a smooth, one-page scrolling experience, enhancing user engagement and navigation.
 
-3. **Responsive Design**: The website is fully responsive, ensuring it looks great and functions smoothly on various devices and screen sizes.
+3. **Interactive Elements**: Engage your visitors with interactive elements and animations that respond to user interactions, creating a dynamic user experience.
 
-4. **Interactive Elements**: Engage your visitors with interactive elements and animations that respond to user interactions, creating a dynamic user experience.
-
-5. **Customizable**: As this is an open-source project, you can easily customize the website to add your own content, branding, and features.
+4. **Customizable**: As this is an open-source project, you can easily customize the website to add your own content, branding, and features.
 
 ## Technologies Used
 
